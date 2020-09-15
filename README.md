@@ -14,7 +14,7 @@ nsmc 테스트 데이터 성능 : 90.81%
 
 테스트 실행 파일 : https://drive.google.com/drive/folders/1-Yv6rszQy6r07zIODC3XpNliAEJORRGY?usp=sharing
 <p>링크에 있는 ELECTRA_SA 폴더를 다운받으신 후에,
-구글 드라이브 -> 내 드라이브에 업로드 하신 다음, SA_model.ipynb 파일을 구글 코랩에서 실행하시면 됩니다. 자세한 실행방법은 사용법 pptx 파일 참고</p>
+구글 드라이브 -> 내 드라이브에 업로드 하신 다음, SA_model.ipynb 파일을 구글 코랩에서 실행하시면 됩니다. 자세한 실행방법은 사용법 pptx 파일를 참고하세요</p>
 
 <p> 데이터 포맷: txt 파일</p>
 <p> 문장 \t(tab) 0 or 1 </p>
