@@ -19,6 +19,6 @@ nsmc 테스트 데이터 성능 : 90.81%
 
 실행 환경 : Google Colab
 
-실행 방법 : 
+실행 방법 : KUSAT 사용법.pptx
 
 모델 코드: src/model/model.py
