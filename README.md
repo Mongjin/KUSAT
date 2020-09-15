@@ -6,7 +6,7 @@
 nsmc 테스트 데이터 성능 : 90.81%
 
 
-실행 파일 : ELECTRA_SA.zip
+실행 파일 : https://drive.google.com/drive/folders/1-Yv6rszQy6r07zIODC3XpNliAEJORRGY?usp=sharing
 실행 환경 : Google Colab
 
 모델 코드: src/model/model.py
