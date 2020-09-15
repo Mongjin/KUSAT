@@ -19,4 +19,6 @@ nsmc 테스트 데이터 성능 : 90.81%
 
 실행 환경 : Google Colab
 
+실행 방법 : 
+
 모델 코드: src/model/model.py
