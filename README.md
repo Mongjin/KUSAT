@@ -26,5 +26,8 @@ nsmc 테스트 데이터 성능 : 90.81%
 
 
 2차 접수
-
+<p> 웹 크롤링 데이터 수집 </p>
+<p> Curriculum Learning 적용 </p>
+<p> 웹 크롤링 데이터 학습 후 nsmc 성능 : 94.08% </p>
+<p> Curriculum Learning 적용 후 nsmc 성능 : 94.28% </p>
 <p> 1차 접수때와 모델 파일이 변경되었으니 링크에 있는 최신 버전의 ELECTRA_SA 폴더를 다운받으시면 됩니다. 실행 방법은 pptx 파일을 참고하세요 </p>
